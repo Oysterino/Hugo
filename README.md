@@ -1,2 +1,2 @@
 # Hugo
-Hugos nya shite
+Hugos shite
